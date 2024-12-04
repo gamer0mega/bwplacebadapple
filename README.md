@@ -5,7 +5,7 @@ badapple renderer for bwplace (https://discord.gg/44r6v4XVcW)
 
 # Configuration
 
-For configuring the script to your needs, change the variables on the top of the script
+For configuring the script to your needs, change the variables at the top of the script
 variable | type | description | default
 * targetWidth | number | Image width on the canvas |  100
 * targetHeight | number | Image height on the canvas | 90
