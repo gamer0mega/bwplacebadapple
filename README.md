@@ -1,7 +1,7 @@
 # bwplacebadapple
 badapple renderer for bwplace (https://discord.gg/44r6v4XVcW)
 
-## DROPPING SOURCE ON THE 6th (also dvd and image scripts soon)
+## MORE SOURCES SOON
 
 # Configuration
 
